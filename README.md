@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marekgrajcar
-- 👀 I’m interested in DevOps, Clouds, Linux, Administration :)
+- 👀 I’m interested in DevOps, Clouds, Containers, Linux, Administration, Python :)
 - 📫 How to reach me: marek.grajcar@gmail.com
 
 <!---
